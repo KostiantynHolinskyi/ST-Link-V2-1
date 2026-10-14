@@ -31,5 +31,5 @@ Protected-2-1-Bootloader.bin - прошивка
 ![](https://github.com/GolinskiyKonstantin/ST-Link-V2-1/blob/master/image/ST-LINK_V2.1_Type-C_2.png)
 
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
 
